@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "6534d9c863a195c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d80f3d52ccfaa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf530a667dc732d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b28dc823f29f86e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e210e2c4d1882130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c4a35b46cbde29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa6f77873994a37e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6024540969aa58e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abe06af1eeccdcf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9a45d5a20d9741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ed5fd2e66f4a95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a4afb62357804909",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "level1/Day 2 Group Creation and User Assignment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5c3dfbfac0e775a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "707a2d5cb013bebb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "35f0e6097c14765c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "level1/Day 2 Group Creation and User Assignment.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8bf530a667dc732d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "level1/Day1 Custom Apache User Setup.md",
+    "level1/Day 2 Group Creation and User Assignment.md",
+    "level1/Day5 Temporary User Setup with Expiry.md",
+    "level1/Day5 Temporary User Setup with Expiry.md",
+    "level1/Day4 Service User Creation without Home Directory.md",
+    "level1/Day 3 Linux User Setup with Non-Interactive Shell.md",
+    "level1"
+  ]
+}
